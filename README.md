@@ -1,1 +1,1 @@
-# MaxCashStack
+# MaxCash
